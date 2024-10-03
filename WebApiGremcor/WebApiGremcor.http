@@ -1,0 +1,6 @@
+@WebApiGremcor_HostAddress = http://localhost:5209
+
+GET {{WebApiGremcor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

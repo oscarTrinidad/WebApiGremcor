@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiGremcor", "WebApiGremcor\WebApiGremcor.csproj", "{9222395F-5296-478D-9E5A-D17E9A3368B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9222395F-5296-478D-9E5A-D17E9A3368B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9222395F-5296-478D-9E5A-D17E9A3368B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9222395F-5296-478D-9E5A-D17E9A3368B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9222395F-5296-478D-9E5A-D17E9A3368B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38A3539-24FE-4C5B-A425-D3D601DED617}
+	EndGlobalSection
+EndGlobal
